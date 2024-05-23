@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @killersupreme
-- 👀 I’m interested in ... Python, Django, DB, Data analize, LMS!!!!
-- 🌱 I’m currently learning ... alway learning about LMS and django
+- 👀 I’m interested in ... Python,PHP, Django, DB, Data analize, LMS!!!!
+- 🌱 I’m currently learning ... always learning about LMS and django
 - 💞️ I’m looking to collaborate on ... firefighters projects.
 - 📫 How to reach me ...
 
